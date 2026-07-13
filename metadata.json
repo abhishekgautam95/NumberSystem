@@ -1,0 +1,6 @@
+{
+  "name": "Number Systems Explorer",
+  "description": "An interactive digital textbook chapter teaching the concepts of Number Systems, Binary, and Hexadecimal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
